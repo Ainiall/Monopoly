@@ -1,0 +1,40 @@
+GoSquare,Go
+LotSquare,Mediterranean Ave,60,2
+NonFeeSquare,Golden Gate Park
+LotSquare,Baltic Ave,60,4
+TaxSquare,Income tax,200
+RailroadSquare,Reading Railroad,200,20
+LotSquare,Oriental Ave,100,6 
+NonFeeSquare,Central Park
+LotSquare,Vermont Ave,100,6
+LotSquare,Connecticut Ave,120,8
+NonFeeSquare,Tivoli Gardens		
+LotSquare,St. Charles Place,140,10 
+UtilitySquare,Electric Company,150,15
+LotSquare,States Ave,140,10
+LotSquare,Virginia Ave,160,12
+RailroadSquare,Pennsylvania Railroad,200,20
+LotSquare,St. James Place,180,14
+NonFeeSquare,Hyde Park
+LotSquare,Tennessee Ave,180,14
+LotSquare,New York Ave,200,16
+NonFeeSquare,FreeParking
+LotSquare,Kentucky Ave,220,18
+NonFeeSquare,Park Guell
+LotSquare,Indiana Ave,220,18
+LotSquare,Illinois Ave,240,20
+RailroadSquare,O Railroad,200,20
+LotSquare,Atlantic Ave,260,22 
+LotSquare,Ventnor Ave,260,22
+UtilitySquare,Water Works,150,15
+LotSquare,Marvin Gardens Ave,280,24
+NonFeeSquare,Griffith Park
+LotSquare,Pacific Ave,300,26
+LotSquare,North Carolina Ave,300,26
+NonFeeSquare,Luxembourg Garden
+LotSquare,Pennsylvania Ave,320,28
+RailroadSquare,ShortLine,200,20
+NonFeeSquare,Balboa Park	
+LotSquare,Park Place,350,35
+TaxSquare,Luxury tax,100
+LotSquare,Boardwalk,400,50
